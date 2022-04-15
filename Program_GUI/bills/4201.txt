@@ -1,0 +1,12 @@
+	Welcome Grocery Retail
+Bill Number:4201
+Customer Name:Gagn
+Phone Number91872982
+================================
+Products		QTY		Price
+ Hand Gloves		60		720
+ Medical Tax			Rs. 36.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.756.0
+--------------------------------

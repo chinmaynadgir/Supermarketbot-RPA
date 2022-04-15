@@ -1,0 +1,15 @@
+	Welcome Grocery Retail
+Bill Number:5198
+Customer Name:Chaitanya
+Phone Number951284810
+================================
+Products		QTY		Price
+ Sanitizer		10		20
+ Mask		5		25
+ Syrup		5		150
+ Thermal Gun		10		15
+ Medical Tax			Rs. 10.5
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.220.5
+--------------------------------

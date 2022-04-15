@@ -1,0 +1,17 @@
+	Welcome Grocery Retail
+Bill Number:9801
+Customer Name:Cheenmay naadgeer
+Phone Number7760280422
+================================
+Products		QTY		Price
+ Mask		72		360
+ Cream		1		5
+ Maggi		1		5
+ Mineral		1		10
+ Coke		87		870
+ Lassi		1		20
+ Medical Tax			Rs. 18.25
+ Grocery Tax			Rs. 25.0
+ Cold Drinks Tax			Rs. 90.0
+ Total Bil:			 Rs.1403.25
+--------------------------------

@@ -1,0 +1,13 @@
+	Welcome Grocery Retail
+Bill Number:8052
+Customer Name:
+Phone Number
+================================
+Products		QTY		Price
+ Sprite		10		100
+ Juice		5		50
+ Medical Tax			Rs. 0.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 15.0
+ Total Bil:			 Rs.165.0
+--------------------------------

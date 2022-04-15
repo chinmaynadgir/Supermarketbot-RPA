@@ -1,0 +1,12 @@
+	Welcome Grocery Retail
+Bill Number:2221
+Customer Name:Chinmay
+Phone Number
+================================
+Products		QTY		Price
+ Hand Gloves		25		300
+ Medical Tax			Rs. 15.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.315.0
+--------------------------------

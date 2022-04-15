@@ -1,0 +1,12 @@
+	Welcome Grocery Retail
+Bill Number:5600
+Customer Name:
+Phone Number
+================================
+Products		QTY		Price
+ Coke		5		50
+ Medical Tax			Rs. 0.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 5.0
+ Total Bil:			 Rs.55.0
+--------------------------------

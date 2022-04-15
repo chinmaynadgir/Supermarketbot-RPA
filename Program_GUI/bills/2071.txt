@@ -1,0 +1,12 @@
+	Welcome Grocery Retail
+Bill Number:2071
+Customer Name:
+Phone Number
+================================
+Products		QTY		Price
+ Mask		30		150
+ Medical Tax			Rs. 7.5
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.157.5
+--------------------------------

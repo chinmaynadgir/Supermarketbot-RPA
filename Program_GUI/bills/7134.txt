@@ -1,0 +1,12 @@
+	Welcome Grocery Retail
+Bill Number:7134
+Customer Name:
+Phone Number
+================================
+Products		QTY		Price
+ Sanitizer		10		20
+ Medical Tax			Rs. 1.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.21.0
+--------------------------------

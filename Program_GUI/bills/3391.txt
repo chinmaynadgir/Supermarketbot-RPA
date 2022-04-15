@@ -1,0 +1,18 @@
+	Welcome Grocery Retail
+Bill Number:3391
+Customer Name:Suradhya
+Phone Number9765203682
+================================
+Products		QTY		Price
+ Sanitizer		2		4
+ Mask		10		50
+ Maggi		20		100
+ Mineral		51		510
+ Coke		60		600
+ Mountain Dew		2		50
+--------------------------------
+ Medical Tax			Rs. 2.7
+ Grocery Tax			Rs. 500.0
+ Cold Drinks Tax			Rs. 116.0
+ Total Bil:			 Rs.1932.7
+--------------------------------

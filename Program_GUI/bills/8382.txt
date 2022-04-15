@@ -1,0 +1,12 @@
+	Welcome Grocery Retail
+Bill Number:8382
+Customer Name:Anvesh
+Phone Number
+================================
+Products		QTY		Price
+ Hand Gloves		30		360
+ Medical Tax			Rs. 18.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.378.0
+--------------------------------

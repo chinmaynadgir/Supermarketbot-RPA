@@ -1,0 +1,16 @@
+	Welcome Grocery Retail
+Bill Number:1385
+Customer Name:Jayashree
+Phone Number9765203682
+================================
+Products		QTY		Price
+ Sanitizer		15		30
+ Mask		60		300
+ Maggi		100		500
+ Mineral		40		400
+ Juice		60		600
+ Medical Tax			Rs. 16.5
+ Grocery Tax			Rs. 2500.0
+ Cold Drinks Tax			Rs. 100.0
+ Total Bil:			 Rs.4446.5
+--------------------------------
