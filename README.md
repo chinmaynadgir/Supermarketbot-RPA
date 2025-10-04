@@ -1,3 +1,76 @@
-# Supermarketbot-RPA
-An RPA Based solution to inventory management of supermarkets and also a Python based GUI to make and read bills<hr width ="80%">
-With the help of UiPath to implement an RPA solution, we were able to automate the process of alerting the vendor via email when an item’s stock falls beyond a particular limit, thereby improving efficiency as manually keeping track is time consuming. <br>Supermarkets are an excellent example of businesses that have benefited from automation. Manually recording store stock was cumbersome, time-consuming, and repetitive. Robotic deployment makes this task faster, less error-prone, and saves the company hundreds of hours of manual labor. The bot is designed to reduce number of items from the totals of their respective inventory after being purchased and is required to send an email to the concerned manufactures placing orders for the same.
+# 🛒 Supermarket Management System
+
+A modern billing and inventory management system for supermarkets with automation and real-time analytics.
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+
+## Features
+
+- **Billing System** - Fast checkout with barcode scanning
+- **Inventory Management** - Real-time stock tracking with low stock alerts
+- **Analytics Dashboard** - Sales reports and revenue charts
+- **Email Automation** - Automatic notifications for low inventory
+- **REST API** - Full API for mobile/web integration
+
+---
+
+## Quick Start
+
+```bash
+# Clone and install
+git clone https://github.com/chinmaynadgir/Supermarketbot-RPA
+cd improved_system
+pip install -r requirements.txt
+
+# Run
+cd SuperMarket_Bot_2 && ./shart.sh
+```
+
+---
+
+## Usage
+
+**Billing:** Enter customer details → Add products → Generate bill
+
+**Inventory:** View stock levels → Add/edit products → Set alerts
+
+**Reports:** Select date range → View analytics → Export data
+
+**Settings:** Configure email notifications and thresholds
+
+---
+
+## Tech Stack
+
+- Python 3.8+ with Tkinter
+- FastAPI for REST API
+- OpenCV for barcode scanning
+- Matplotlib for charts
+- JSON for data storage
+
+---
+
+## Project Structure
+
+```
+SuperMarket_Bot2/
+├── main.py              # Entry point
+├── gui.py               # User interface
+├── billing_service.py   # Billing logic
+├── inventory_service.py # Inventory logic
+├── api.py              # REST API
+└── data/               # Data files
+```
+
+---
+
+## License
+
+MIT License
+
+---
+
+**Built to demonstrate clean architecture and practical automation.**
