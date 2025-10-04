@@ -1,0 +1,236 @@
+{
+  "med001": {
+    "id": "med001",
+    "name": "Hand Sanitizer 100ml",
+    "category": "Medical",
+    "price": 4.5,
+    "quantity": 55,
+    "min_stock_level": 20,
+    "tax_rate": 0.05
+  },
+  "med002": {
+    "id": "med002",
+    "name": "Face Mask (Pack of 10)",
+    "category": "Medical",
+    "price": 5.0,
+    "quantity": 0,
+    "min_stock_level": 20,
+    "tax_rate": 0.05
+  },
+  "med003": {
+    "id": "med003",
+    "name": "Thermal Gun",
+    "category": "Medical",
+    "price": 25.0,
+    "quantity": 5,
+    "min_stock_level": 10,
+    "tax_rate": 0.05
+  },
+  "med004": {
+    "id": "med004",
+    "name": "Hand Gloves (Box of 100)",
+    "category": "Medical",
+    "price": 12.0,
+    "quantity": 68,
+    "min_stock_level": 20,
+    "tax_rate": 0.05
+  },
+  "med005": {
+    "id": "med005",
+    "name": "Cough Syrup 100ml",
+    "category": "Medical",
+    "price": 8.0,
+    "quantity": 57,
+    "min_stock_level": 20,
+    "tax_rate": 0.05
+  },
+  "med006": {
+    "id": "med006",
+    "name": "Antiseptic Cream 50g",
+    "category": "Medical",
+    "price": 6.0,
+    "quantity": 4,
+    "min_stock_level": 20,
+    "tax_rate": 0.05
+  },
+  "med007": {
+    "id": "med007",
+    "name": "Band-Aids (Box of 50)",
+    "category": "Medical",
+    "price": 3.5,
+    "quantity": 51,
+    "min_stock_level": 25,
+    "tax_rate": 0.05
+  },
+  "med008": {
+    "id": "med008",
+    "name": "Pain Relief Tablets",
+    "category": "Medical",
+    "price": 7.5,
+    "quantity": 50,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro009": {
+    "id": "gro009",
+    "name": "Rice 1kg",
+    "category": "Grocery",
+    "price": 3.0,
+    "quantity": 35,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro010": {
+    "id": "gro010",
+    "name": "Cooking Oil 1L",
+    "category": "Grocery",
+    "price": 4.0,
+    "quantity": 42,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro011": {
+    "id": "gro011",
+    "name": "Wheat Flour 1kg",
+    "category": "Grocery",
+    "price": 2.0,
+    "quantity": 68,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro012": {
+    "id": "gro012",
+    "name": "Spices Pack",
+    "category": "Grocery",
+    "price": 3.0,
+    "quantity": 33,
+    "min_stock_level": 25,
+    "tax_rate": 0.05
+  },
+  "gro013": {
+    "id": "gro013",
+    "name": "Sugar 1kg",
+    "category": "Grocery",
+    "price": 2.5,
+    "quantity": 79,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro014": {
+    "id": "gro014",
+    "name": "Salt 1kg",
+    "category": "Grocery",
+    "price": 1.5,
+    "quantity": 46,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro015": {
+    "id": "gro015",
+    "name": "Maggi Noodles",
+    "category": "Grocery",
+    "price": 1.5,
+    "quantity": 67,
+    "min_stock_level": 30,
+    "tax_rate": 0.05
+  },
+  "gro016": {
+    "id": "gro016",
+    "name": "Bread Loaf",
+    "category": "Grocery",
+    "price": 2.0,
+    "quantity": 32,
+    "min_stock_level": 25,
+    "tax_rate": 0.05
+  },
+  "gro017": {
+    "id": "gro017",
+    "name": "Milk 1L",
+    "category": "Grocery",
+    "price": 2.5,
+    "quantity": 8,
+    "min_stock_level": 40,
+    "tax_rate": 0.05
+  },
+  "gro018": {
+    "id": "gro018",
+    "name": "Eggs (Dozen)",
+    "category": "Grocery",
+    "price": 3.5,
+    "quantity": 52,
+    "min_stock_level": 35,
+    "tax_rate": 0.05
+  },
+  "col019": {
+    "id": "col019",
+    "name": "Coca Cola 500ml",
+    "category": "Cold Drinks",
+    "price": 2.5,
+    "quantity": 64,
+    "min_stock_level": 40,
+    "tax_rate": 0.1
+  },
+  "col020": {
+    "id": "col020",
+    "name": "Sprite 500ml",
+    "category": "Cold Drinks",
+    "price": 2.5,
+    "quantity": 44,
+    "min_stock_level": 40,
+    "tax_rate": 0.1
+  },
+  "col021": {
+    "id": "col021",
+    "name": "Mineral Water 1L",
+    "category": "Cold Drinks",
+    "price": 1.5,
+    "quantity": 64,
+    "min_stock_level": 50,
+    "tax_rate": 0.1
+  },
+  "col022": {
+    "id": "col022",
+    "name": "Mango Juice 1L",
+    "category": "Cold Drinks",
+    "price": 3.5,
+    "quantity": 40,
+    "min_stock_level": 30,
+    "tax_rate": 0.1
+  },
+  "col023": {
+    "id": "col023",
+    "name": "Lassi 200ml",
+    "category": "Cold Drinks",
+    "price": 2.0,
+    "quantity": 78,
+    "min_stock_level": 30,
+    "tax_rate": 0.1
+  },
+  "col024": {
+    "id": "col024",
+    "name": "Mountain Dew 500ml",
+    "category": "Cold Drinks",
+    "price": 2.25,
+    "quantity": 85,
+    "min_stock_level": 40,
+    "tax_rate": 0.1
+  },
+  "col025": {
+    "id": "col025",
+    "name": "Orange Juice 1L",
+    "category": "Cold Drinks",
+    "price": 3.0,
+    "quantity": 70,
+    "min_stock_level": 30,
+    "tax_rate": 0.1
+  },
+  "col026": {
+    "id": "col026",
+    "name": "Energy Drink 250ml",
+    "category": "Cold Drinks",
+    "price": 4.5,
+    "quantity": 43,
+    "min_stock_level": 25,
+    "tax_rate": 0.1
+  }
+}

@@ -1,0 +1,7 @@
+Customer Analysis
+
+Top Customers by Spend:
+john: $91.35
+ravi: $31.50
+Test Customer: $4.72
+c: $3.15
